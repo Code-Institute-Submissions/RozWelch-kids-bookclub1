@@ -59,3 +59,12 @@ h2 {
 .active {
     background-color: rgb(252, 252, 164);
 }
+
+/* main section */
+
+#main-image {
+height: 600px;
+width: 100%;
+background: url('../images/main-kids-image.jpg') no-repeat;
+clear: both;
+}
