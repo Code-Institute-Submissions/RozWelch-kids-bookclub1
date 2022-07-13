@@ -11,3 +11,51 @@ body {
     font-weight: 300;
     color: #252525;
 }
+
+/* headings and logo */
+
+h1,
+h2 {
+    font-family: Quicksand, sans-serif;
+    letter-spacing: 1px;
+    color: #6a2383;
+}
+
+#kids-logo {
+    float: left;
+    font-size: 290%;
+    margin-left: 25px;
+}
+
+/* navigation */
+
+#nav-menu {
+    font-family: Quicksand, sans-serif;
+    font-size: 120%;
+    float: right;
+}
+
+#nav-menu,
+#kids-logo {
+    line-height: 75px;
+}
+
+#nav-menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    float: left;
+}
+
+#nav-menu a {
+    text-decoration: none;
+    color: #6a2383;
+}
+
+#nav-menu a:hover {
+    background-color: rgb(252, 252, 164);
+}
+
+.active {
+    background-color: rgb(252, 252, 164);
+}
