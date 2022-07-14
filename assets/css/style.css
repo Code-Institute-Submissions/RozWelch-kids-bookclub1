@@ -62,6 +62,13 @@ h2 {
 
 /* main image and text */
 
+#main-section {
+    height: 33%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
 #main-image {
 height: 600px;
 width: 100%;
@@ -69,10 +76,16 @@ background: url('../images/kids_main_image.jpg') no-repeat;
 clear: both;
 }
 
+#main-heading {
+    text-transform: uppercase;
+    margin: 25px 4%;
+    font-size: 170%;
+}
+
 #main-about {
-    padding: 1em;
-    margin-left: 10%;
-    width: 33%;
+    padding-top: 25px;
+    margin-left: 5%;
+    width: 400px;
 }
 
 hr {
@@ -82,14 +95,14 @@ hr {
     margin: 10px 0 10px 0;
 }
 
-#kids-icon (
+#kids-icon {
+    padding-top: 25px;
     background: url('../images/center-icon-kids.gif')
     no-repeat center center;
     height: 204px;
     width: 426px;
-    margin-top: 20px;
-    float: :right;
-)
+    margin-left: 5%;
+}
 
 
 /* footer */
