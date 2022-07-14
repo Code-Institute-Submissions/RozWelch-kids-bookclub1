@@ -66,14 +66,15 @@ h2 {
     height: 33%;
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 50px;
 }
 
 
 #main-image {
-height: 600px;
-width: 100%;
-background: url('../images/kids_main_image.jpg') no-repeat;
-clear: both;
+    height: 600px;
+    width: 100%;
+    background: url('../images/kids_main_image.jpg') no-repeat;
+    clear: both;
 }
 
 #main-heading {
@@ -91,24 +92,41 @@ clear: both;
 hr {
     border-top: dotted 3px;
     width: 300px;
-    border-color:  #72c5ce;
-    margin: 10px 0 10px 0;
+    border-color: #72c5ce;
+    margin: 10px 0;
 }
 
 #kids-icon {
     padding-top: 25px;
-    background: url('../images/center-icon-kids.gif')
-    no-repeat center center;
+    background: url('../images/center-icon-kids.gif') no-repeat center center;
     height: 204px;
     width: 426px;
     margin-left: 5%;
 }
 
+/* bookclub locations and times */
+
+#location {
+    display: flex;
+    flex-direction: row;
+}
+
+#locations div {
+    color: #fff;
+    width: 200px;
+    height: 180px;
+    background-color: #6a2383;
+    padding: 25px;
+}
+
+#locations h2 {
+    color: #fff;
+}
 
 /* footer */
 
 footer {
-    height: 40px;
+    height: 20px;
 }
 
 .social-networks {
