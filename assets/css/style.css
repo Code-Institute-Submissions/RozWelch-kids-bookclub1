@@ -60,17 +60,26 @@ h2 {
     background-color: rgb(252, 252, 164);
 }
 
-/* main section */
+/* main image and text */
 
 #main-image {
 height: 600px;
 width: 100%;
-background: url('../images/main-kids-image.jpg') no-repeat;
+background: url('../images/kids_main_image.jpg') no-repeat;
 clear: both;
 }
 
 #main-about {
     padding: 1em;
+    margin-left: 10%;
+    width: 33%;
+}
+
+hr {
+    border-top: dotted 3px;
+    width: 300px;
+    border-color:  #72c5ce;
+    margin: 10px 0 10px 0;
 }
 
 /* footer */
