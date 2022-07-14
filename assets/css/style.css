@@ -66,7 +66,7 @@ h2 {
     height: 33%;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 
@@ -79,14 +79,16 @@ h2 {
 
 #main-heading {
     text-transform: uppercase;
-    margin: 25px 4%;
-    font-size: 170%;
+    margin: 25px 3%;
+    font-size: 220%;
+    text-align: center;
+
 }
 
 #main-about {
     padding-top: 25px;
-    margin-left: 5%;
-    width: 400px;
+    margin-left: 25%;
+    width: 33%;
 }
 
 hr {
@@ -106,21 +108,34 @@ hr {
 
 /* bookclub locations and times */
 
-#location {
+#locations-sections {
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    color: #fff;
+    text-align: center;
 }
 
-#locations div {
+#locations-sections h2 {
     color: #fff;
-    width: 200px;
-    height: 180px;
+}
+
+.location-container {
+    padding: 5rem 0;
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 75%;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+
+.location {
+    display: flex;
+    flex-direction: column;
     background-color: #6a2383;
-    padding: 25px;
-}
-
-#locations h2 {
-    color: #fff;
+    width: 300px;
+    height: 130px;
 }
 
 /* footer */
@@ -140,5 +155,5 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 4%;
+    padding: 2%;
 }
