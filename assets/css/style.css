@@ -231,13 +231,16 @@ hr {
 /* For mobile screen sizes from 480px wide and down */
 @media screen and (max-width: 480px) {
 
+    .form-section {
+        background: url('../images/young-smiley-girl-portrait-pointing-small.jpg') no-repeat center center;
+        height: 700px;
+        width: auto;
+    }
 
 }
 
 /* For tablet size screens from 768px wide and down */
 @media screen and (max-width: 768px) {
-
-
 
     .location {
         width: 95%;
@@ -247,7 +250,6 @@ hr {
         background: url('../images/kids_main_image_small.jpg') no-repeat center center;
         height: 300px;
     }
-
 
 
 }
@@ -260,10 +262,6 @@ hr {
         margin-left: 5%;
         width: 80%;
         font-size: 110%;
-    }
-
-    .form-section {
-        background: url('../images/young-smiley-girl-portrait-pointing-small.jpg') no-repeat center center;
     }
 
 }
