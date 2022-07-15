@@ -162,4 +162,11 @@ hr {
     grid-template-rows: repeat(3, 1fr);
     grid-gap: 5px;
     clear: both;
+    justify-items: center;
+    width: 90vw;
+    margin: 0 auto; 
+}
+
+.gallery-images {
+    width: 100%
 }
