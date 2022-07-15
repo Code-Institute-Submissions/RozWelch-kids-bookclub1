@@ -82,13 +82,16 @@ h2 {
     margin: 25px 3%;
     font-size: 220%;
     text-align: center;
-
 }
 
 #main-about {
     padding-top: 25px;
     margin-left: 25%;
     width: 33%;
+}
+
+#main-about p {
+    font-size: 120%;
 }
 
 hr {
@@ -141,6 +144,7 @@ hr {
 /* footer */
 
 .social-networks {
+    color: #6a2383;
     text-align: center;
 }
 
@@ -220,4 +224,33 @@ hr {
 .signup-button:hover {
     background-color: rgb(252, 252, 164);
     color: #6a2383;
+}
+
+/* Media queries */
+
+/* For mobile screen sizes from 480px wide and down */
+@media screen and (max-width: 480px) {
+
+    #main-about {
+        padding-top: 15px;
+        margin-left: 7%;
+        width: 80%;
+        font-size: 130%;
+    }
+
+}
+
+/* For tablet size screens from 768px wide and down */
+@media screen and (max-width: 768px) {
+
+    #main-image {
+        background: url('../images/kids_main_image_small.jpg') no-repeat;
+        height: 300px;
+    }
+
+}
+
+/* For smaller screens and laptops from 1024px wide and down */
+@media screen and (max-width: 1024px) {
+
 }
