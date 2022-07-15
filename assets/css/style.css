@@ -247,9 +247,15 @@ hr {
     }
 
     #main-image {
-        background: url('../images/kids_main_image_small.jpg') no-repeat center center;
+        background: url('../images/kids_main_image_small.jpg') no-repeat;
         height: 300px;
     }
+
+    #kids-icon {
+        margin-left: 1%;
+        float: left;
+    }
+
 
 
 }
