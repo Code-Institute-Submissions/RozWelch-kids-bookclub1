@@ -178,7 +178,7 @@ hr {
 /* Form Section */
 
 .form-section {
-    background: url('../images/young-smiley-girl-portrait-pointing.jpg');
+    background: url('../images/young-smiley-girl-portrait-pointing.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 800px;
@@ -244,13 +244,11 @@ hr {
     }
 
     #main-image {
-        background: url('../images/kids_main_image_small.jpg') no-repeat;
+        background: url('../images/kids_main_image_small.jpg') no-repeat center center;
         height: 300px;
     }
 
-    .form-section {
-        background: url('../images/young-smiley-girl-portrait-pointing-small.jpg');
-    }
+
 
 }
 
@@ -262,6 +260,10 @@ hr {
         margin-left: 5%;
         width: 80%;
         font-size: 110%;
+    }
+
+    .form-section {
+        background: url('../images/young-smiley-girl-portrait-pointing-small.jpg') no-repeat center center;
     }
 
 }
