@@ -105,7 +105,7 @@ hr {
     padding-top: 25px;
     background: url('../images/center-icon-kids.gif') no-repeat center center;
     height: 204px;
-    width: 426px;
+    width: 398px;
     margin-left: 5%;
 }
 
@@ -137,7 +137,7 @@ hr {
     display: flex;
     flex-direction: column;
     background-color: #6a2383;
-    width: 330px;
+    width: 300px;
     height: 130px;
 }
 
@@ -231,17 +231,18 @@ hr {
 /* For mobile screen sizes from 480px wide and down */
 @media screen and (max-width: 480px) {
 
-    #main-about {
-        padding-top: 15px;
-        margin-left: 7%;
-        width: 80%;
-        font-size: 130%;
-    }
 
 }
 
 /* For tablet size screens from 768px wide and down */
 @media screen and (max-width: 768px) {
+
+    #main-about {
+        padding-top: 15px;
+        margin-left: 6%;
+        width: 80%;
+        font-size: 110%;
+    }
 
     #main-image {
         background: url('../images/kids_main_image_small.jpg') no-repeat;
