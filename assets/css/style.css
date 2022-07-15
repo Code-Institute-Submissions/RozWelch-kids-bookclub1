@@ -104,8 +104,8 @@ hr {
 #kids-icon {
     padding-top: 25px;
     background: url('../images/center-icon-kids.gif') no-repeat center center;
-    height: 204px;
-    width: 398px;
+    height: 178px;
+    width: 356px;
     margin-left: 5%;
 }
 
@@ -129,7 +129,7 @@ hr {
     flex-wrap: wrap;
     width: 75%;
     justify-content: space-evenly;
-    gap: 10px;
+    gap: 5px;
 
 }
 
@@ -237,11 +237,10 @@ hr {
 /* For tablet size screens from 768px wide and down */
 @media screen and (max-width: 768px) {
 
-    #main-about {
-        padding-top: 15px;
-        margin-left: 6%;
-        width: 80%;
-        font-size: 110%;
+
+
+    .location {
+        width: 95%;
     }
 
     #main-image {
@@ -249,9 +248,20 @@ hr {
         height: 300px;
     }
 
+    .form-section {
+        background: url('../images/young-smiley-girl-portrait-pointing-small.jpg');
+    }
+
 }
 
 /* For smaller screens and laptops from 1024px wide and down */
 @media screen and (max-width: 1024px) {
+
+    #main-about {
+        padding-top: 15px;
+        margin-left: 5%;
+        width: 80%;
+        font-size: 110%;
+    }
 
 }

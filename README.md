@@ -11,7 +11,7 @@ I aimed to provide a clear, easy to understand website that would appeal to both
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation Bar__ß
 
   - The fully responsive navigation is on all three pages, it includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - It is positioned to be easy to view, and styled to be easy to read.
