@@ -1,7 +1,7 @@
 
 # Kids' Bookclub
 
-Description: A three page website to encourage parents of children age 4-12years to join the KIDS' Bookclubs in Ireland. The content is also aimed to appeal to children age 4-12 years old. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
+A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. The design is fun, easy to read and has a bright, vibrant colour pallet to appeal to children. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -13,7 +13,7 @@ I aimed to provide a clear, easy to understand website that would appeal to both
 
 - __Navigation Bar__ß
 
-  - The fully responsive navigation is on all three pages, it includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - The fully responsive navigation is on all three pages, it includes links to the Home page, Gallery and Join Up page and is identical in each page to allow for easy navigation.
   - It is positioned to be easy to view, and styled to be easy to read.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
@@ -68,16 +68,14 @@ I aimed to provide a clear, easy to understand website that would appeal to both
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+Add testing information here.
 
 ### Validator Testing 
+
+When first put through the W3C tester the following issues arose and were fixed:
+- Removed extra footer div on the gallery and join pages.
+- Removed extra body tag on the gallery page.
+- Changed a Section to a Div on index page (this caused an error as there was no heading on the div).
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
@@ -86,7 +84,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+There were no unfixed bugs.
 
 ## Deployment
 
