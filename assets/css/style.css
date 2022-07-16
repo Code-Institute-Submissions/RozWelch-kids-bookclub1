@@ -143,7 +143,6 @@ hr {
 /* footer */
 
 .social-networks {
-    color: #6a2383;
     text-align: center;
 }
 
@@ -155,6 +154,7 @@ hr {
     font-size: 160%;
     margin: 1%;
     padding: 1%;
+    color: #6a2383;
 }
 
 /* image gallery grid */
