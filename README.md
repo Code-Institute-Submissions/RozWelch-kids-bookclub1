@@ -1,7 +1,7 @@
 
 # Kids' Bookclub
 
-Description: A three page website to encourage parents of children age 4-12years to join the KIDS' Bookclubs in Ireland. The content is also aimed to appeal to children age 5-12 years old. A home page gives a basic idea of the bookclubs, and includes book recommendations. A gallery page shows images of what the bookclubs are like. A Sign up page allows parents to sign up to a group. Each page has a link to the bookclubs' social media pages. 
+Description: A three page website to encourage parents of children age 4-12years to join the KIDS' Bookclubs in Ireland. The content is also aimed to appeal to children age 4-12 years old. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 

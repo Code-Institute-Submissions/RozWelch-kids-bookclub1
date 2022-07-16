@@ -261,50 +261,50 @@ h2 {
 
 }
 
-    /* For tablet size screens from 768px wide and down */
-    @media screen and (max-width: 768px) {
+/* For tablet size screens from 768px wide and down */
+@media screen and (max-width: 768px) {
 
-        .location {
-            width: 95%;
-        }
-
-        #main-image {
-            background: url('../images/kids_main_image_small.jpg') no-repeat;
-            height: 300px;
-        }
-
-        #kids-icon {
-            margin-left: 1%;
-        }
-
-        #center-heading {
-            justify-content: left;
-        }
-
-        #main-about {
-            text-align: left;
-            width: 90%;
-            margin-left: 10px;
-        }
-
+    .location {
+        width: 95%;
     }
 
-    /* For smaller screens and laptops from 1024px wide and down */
-    @media screen and (max-width: 1024px) and (min-width: 769px) {
-
-        #kids-icon {
-            width: 80%;
-            margin: 20px auto 0;
-        }
-
-        #main-about {
-            width: 80%;
-            margin: auto;
-            text-align: center;
-        }
-
-        #center-heading {
-            justify-content: center;
-        }
-
+    #main-image {
+        background: url('../images/kids_main_image_small.jpg') no-repeat;
+        height: 300px;
     }
+
+    #kids-icon {
+        margin-left: 1%;
+    }
+
+    #center-heading {
+        justify-content: left;
+    }
+
+    #main-about {
+        text-align: left;
+        width: 90%;
+        margin-left: 10px;
+    }
+
+}
+
+/* For smaller screens and laptops from 1024px wide and down */
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+
+    #kids-icon {
+        width: 80%;
+        margin: 20px auto 0;
+    }
+
+    #main-about {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+
+    #center-heading {
+        justify-content: center;
+    }
+
+}
