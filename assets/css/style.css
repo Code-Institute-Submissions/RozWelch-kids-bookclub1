@@ -100,7 +100,7 @@ h2 {
 
 #center-heading {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin: 20px 0;
 }
 
@@ -127,7 +127,7 @@ h2 {
 }
 
 .location-container {
-    padding: 5rem 0;
+    padding: 1rem 0;
     display: inline-flex;
     flex-wrap: wrap;
     width: 75%;
@@ -290,13 +290,17 @@ h2 {
 
         #kids-icon {
             width: 80%;
-            margin-left: 5%;
+            margin: 20px auto 0;
         }
 
         #main-about {
             width: 80%;
-            margin-left: 5%;
+            margin: auto;
             text-align: center;
+        }
+
+        #center-heading {
+            justify-content: center;
         }
 
     }
