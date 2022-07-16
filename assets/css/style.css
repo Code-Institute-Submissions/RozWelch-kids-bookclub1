@@ -121,6 +121,7 @@ hr {
 
 #locations-sections h2 {
     color: #fff;
+    margin: 10px 0 5px;
 }
 
 .location-container {
@@ -130,7 +131,6 @@ hr {
     width: 75%;
     justify-content: space-evenly;
     gap: 5px;
-
 }
 
 .location {
