@@ -242,7 +242,9 @@ hr {
         font-size: 130%;
     }
 
-}
+    .gallery-image {
+        width: 108%;
+    }
 
 /* For tablet size screens from 768px wide and down */
 @media screen and (max-width: 768px) {
