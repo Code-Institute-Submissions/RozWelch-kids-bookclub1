@@ -1,17 +1,19 @@
 
-# Kids' Bookclub
+# Project 1: Kids' Bookclub
 
 A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. The design is fun, easy to read and has a bright, vibrant colour pallet. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](/assets/README_images/homepage_mockup.jpg)
+![Responsice Mockup](/assets/README_images/gallery_mockup.jpg)
+![Responsice Mockup](/assets/README_images/signup_page_mockup.jpg)
 
 ## Features 
 
-I aimed to provide a clear, easy to understand website that would appeal to both parents, and to children ages 4-12 years.
+I aimed to provide a clear, easy to understand website that would appeal to both parents/guardians, and also to children ages 4-12 years.
 
 ### Existing Features
 
-- __Navigation Bar__ß
+- Navigation Bar
 
   - The fully responsive navigation is on all three pages, it includes links to the Home page, Gallery and Join Up page and is identical in each page to allow for easy navigation.
   - It is positioned to be easy to view, and styled to be easy to read.

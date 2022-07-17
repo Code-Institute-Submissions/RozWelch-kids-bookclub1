@@ -37,13 +37,13 @@ h2 {
 
 #nav-menu,
 #kids-logo {
-    line-height: 75px;
+    line-height: 72px;
 }
 
 #nav-menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 32px;
     float: left;
 }
 
@@ -70,7 +70,7 @@ h2 {
 }
 
 #main-image {
-    height: 600px;
+    height: 590px;
     width: 100%;
     background: url('../images/kids_main_image.jpg') no-repeat;
     clear: both;
