@@ -3,9 +3,13 @@
 
 A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. The design is fun, easy to read and has a bright, vibrant colour pallet. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
-![Responsice Mockup](/assets/README_images/homepage_mockup.jpg)
-![Responsice Mockup](/assets/README_images/gallery_mockup.jpg)
-![Responsice Mockup](/assets/README_images/signup_page_mockup.jpg)
+The live site can be found here: https://rozwelch.github.io/kids-bookclub1/join.html
+
+Am I Responsive view of the website on different devices:
+
+![Responsice Mockup](/assets/readme_images/homepage_mockup.jpg)
+![Responsice Mockup](/assets/readme_images/gallery_mockup.jpg)
+![Responsice Mockup](/assets/readme_images/signup_page_mockup.jpg)
 
 ## Features 
 
@@ -22,7 +26,6 @@ I aimed to provide a clear, easy to understand and navigate website that would a
 - __The landing page image__
 
   - The landing page includes a photograph with the main heading to allow the user to see exactly which who the website is for and locations of bookclubs. 
-  - This section introduces the user to Kids' Bookclub with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
@@ -33,10 +36,9 @@ I aimed to provide a clear, easy to understand and navigate website that would a
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Book Review section__
+- __Location and times section__
 
-  - This section will allow parents to see book suggestions, so they could purchase books for thier children.  
-  - The book reviews are by children who have read the book, so gives parents a child's viewpoint of the book. 
+  - This section will allow users to see the location and times of bookclub groups.  
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
@@ -50,13 +52,13 @@ I aimed to provide a clear, easy to understand and navigate website that would a
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the Bookclubs are like. 
-  - This section is valuable to the parents as they will see if they would be suitable for thier child, and also of benefit to the child to see other children enjoying the groups. 
+  - This section is valuable to the parents/guardians as they will see if they would be suitable for thier child, and also of benefit to the child to see other children enjoying the groups. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the parent to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
+  - This page will allow the parent/guardians to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
  - The user will be asked to submit their name, their child's name and an email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
@@ -88,37 +90,24 @@ There were no unfixed bugs.
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed to GitHub pages. The steps I used to deploy were as follows: 
+  - In my GitHub account I located my repository
+  - I navigate to the Settings tab 
+  - From the source section drop-down menu, the Main branch was selected
+  - Once the master branch has been selected, this deployed my project to the URL below. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://rozwelch.github.io/kids-bookclub1/join.html
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+The design was influenced by the Love Running project.
 
 ### Content 
 
 - The text for the Home page was created by me.
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and on the main page were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
 - All photos were taken from Freepix website www.freepix.com
-- Main image:
-- <a href="https://www.freepik.com/photos/group-children">Group of children photo created by freepik - www.freepik.com</a>
-
-- Gallery images x8:
-- <a href='https://www.freepik.com/photos/smart-kid'>Smart kid photo created by freepik - www.freepik.com</a>
-- <a href='https://www.freepik.com/photos/school-students'>School students photo created by pressfoto - www.freepik.com</a>
-- <a href='https://www.freepik.com/photos/speaking'>Speaking photo created by pvproductions - www.freepik.com</a>
-
-- Main image on Sign up page
-- <a href='https://www.freepik.com/photos/winter-wear'>Winter wear photo created by freepik - www.freepik.com</a>
-
