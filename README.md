@@ -3,13 +3,13 @@
 
 A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. The design is fun, easy to read and has a bright, vibrant colour pallet. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
-The live site can be found here: https://rozwelch.github.io/kids-bookclub1/join.html
+The live site can be found here: https://rozwelch.github.io/kids-bookclub1/index.html
 
 Am I Responsive view of the website on different devices:
 
-![Responsice Mockup](/assets/readme_images/homepage_mockup.jpg)
-![Responsice Mockup](/assets/readme_images/gallery_mockup.jpg)
-![Responsice Mockup](/assets/readme_images/signup_page_mockup.jpg)
+![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/homepage_mockup.jpg)
+![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_mockup.jpg)
+![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_page_mockup.jpg)
 
 ## Features 
 
@@ -21,26 +21,26 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - It is positioned to be easy to view, and styled to be easy to read.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](/assets/readme_images)
+![Nav Bar](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/navigation.jpg)
 
 - __The landing page image__
 
   - The landing page includes a photograph with the main heading to allow the user to see exactly which who the website is for and locations of bookclubs. 
 
-![Landing Page](/assets/readme_images)
+![Landing Page](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page.jpg)
 
 - __Why join our Bookclub Section__
 
   - The Why join our Bookclub section allows the parents to see the benefits of their child joining the bookclub, as well as the benefits of reading in general. 
   - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to go.
 
-![Club Ethos](/assets/readme_images)
+![Main Text](/https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home-page_maintxt.jpg)
 
 - __Location and times section__
 
   - This section will allow users to see the location and times of bookclub groups.  
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_locations.jpg)
 
 - __The Footer__ 
 
@@ -96,7 +96,7 @@ There were no unfixed bugs.
   - From the source section drop-down menu, the Main branch was selected
   - Once the master branch has been selected, this deployed my project to the URL below. 
 
-The live link can be found here - https://rozwelch.github.io/kids-bookclub1/join.html
+The live link can be found here - https://rozwelch.github.io/kids-bookclub1/index.html
 
 
 ## Credits 
