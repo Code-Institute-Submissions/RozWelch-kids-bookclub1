@@ -34,7 +34,7 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - The Why join our Bookclub section allows the parents to see the benefits of their child joining the bookclub, as well as the benefits of reading in general. 
   - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to go.
 
-![Main Text](/https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home-page_maintxt.jpg)
+![Main Text](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home-page_maintxt.jpg)
 
 - __Location and times section__
 
@@ -47,21 +47,21 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - The footer section includes links to the relevant social media sites for Kids' Bookclub. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/footer.jpg)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the Bookclubs are like. 
   - This section is valuable to the parents/guardians as they will see if they would be suitable for thier child, and also of benefit to the child to see other children enjoying the groups. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_page.jpg)
 
 - __The Sign Up Page__
 
   - This page will allow the parent/guardians to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
  - The user will be asked to submit their name, their child's name and an email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_form.jpg)
 
 
 ### Features Left to Implement
@@ -83,6 +83,11 @@ When first put through the W3C tester the following issues arose and were fixed:
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+  ![Test Code Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/validate_home_page.jpg)
+  ![Test Code Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/validate_gallery_page_code.jpg)
+  ![Test Code Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/validate_join_code.jpg)
+  ![Test Code CSS](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/validate_css_code.jpg)
 
 ### Unfixed Bugs
 
