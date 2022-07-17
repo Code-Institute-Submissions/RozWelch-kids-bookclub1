@@ -13,7 +13,7 @@ Am I Responsive view of the website on different devices:
 
 ## Features 
 
-I aimed to provide a clear, easy to understand and navigate website that would appeal to both parents/guardians, and also to children ages 4-12 years.
+I aimed to provide a clear, easy to understand and easy to navigate website that would appeal to both parents/guardians, and also to children ages 4-12 years.
 
 - Navigation Bar
 
@@ -21,20 +21,20 @@ I aimed to provide a clear, easy to understand and navigate website that would a
   - It is positioned to be easy to view, and styled to be easy to read.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](/assets/readme_images)
 
 - __The landing page image__
 
   - The landing page includes a photograph with the main heading to allow the user to see exactly which who the website is for and locations of bookclubs. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](/assets/readme_images)
 
 - __Why join our Bookclub Section__
 
   - The Why join our Bookclub section allows the parents to see the benefits of their child joining the bookclub, as well as the benefits of reading in general. 
   - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to go.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](/assets/readme_images)
 
 - __Location and times section__
 
