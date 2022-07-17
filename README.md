@@ -72,6 +72,7 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 The website was tested on Chrome, Firefox and Safari browers.
 The website was tested on desktop, laptop, table and mobile size screens.
+The links were tested on the deployed site, and the form was tested. 
 The code was checked on Chrome Developt tools Lighthouse with 100% results:
 
   ![Lighthouse test Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_lighthousescore.jpg)
@@ -110,10 +111,11 @@ There were no unfixed bugs.
 
 The live link can be found here - https://rozwelch.github.io/kids-bookclub1/index.html
 
-
 ## Credits 
 
-The design was influenced by the Love Running project.
+Resources: WW3 school, Love Running walkthrough project.
+
+Acknowledgements: Thanks to my mentor, my fellow students on Slack, Tutoring support and to my friends for helping test the site.
 
 ### Content 
 
