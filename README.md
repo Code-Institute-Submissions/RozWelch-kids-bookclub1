@@ -24,13 +24,11 @@ Initial design wireframes using Balsamiq:
 ![Wireframe Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_gallery.jpg)
 ![Wireframe Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_signup.jpg)
 
-### Initial design ideas 
+### Initial design layout 
 
-Initial design wireframes using Adobe Illustrator:
+Initial design layouts using Adobe Illustrator:
 
-![Wireframe Home](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_index.jpg)
-![Wireframe Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_gallery.jpg)
-![Wireframe Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_signup.jpg)
+![Wireframe Home](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/kidsbookclub_illustrator_design.jpg)
 
 ## Features 
 
