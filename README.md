@@ -70,14 +70,21 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 ## Testing 
 
-Add testing information here.
+The website was tested on Chrome, Firefox and Safari browers.
+The website was tested on desktop, laptop, table and mobile size screens.
+The code was checked on Chrome Developt tools Lighthouse with 100% results:
+
+  ![Lighthouse test Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_lighthousescore.jpg)
+  ![Lighthouse test Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_lighthouse.jpg)
+  ![Lighthouse test Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_lighthouse.jpg)
+
 
 ### Validator Testing 
 
 When first put through the W3C tester the following issues arose and were fixed:
 - Removed extra footer div on the gallery and join pages.
 - Removed extra body tag on the gallery page.
-- Changed a Section to a Div on index page (this caused an error as there was no heading on the div).
+- Changed a Section to a Div on index page (this caused an error as there was no heading on the section).
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
