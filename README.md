@@ -1,7 +1,7 @@
 
 # Project 1: Kids' Bookclub
 
-A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. The design is fun, easy to read and has a bright, vibrant colour pallet. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
+A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
 
 The live site can be found here: https://rozwelch.github.io/kids-bookclub1/index.html
 
@@ -11,15 +11,37 @@ Am I Responsive view of the website on different devices:
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_mockup.jpg)
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_page_mockup.jpg)
 
+## Design 
+
+The design is fun, easy to read and has a bright, vibrant colour pallet. 
+![Colour Pallet](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/colour_pallet.jpg)
+
+### Wireframes 
+
+Initial design wireframes using Balsamiq:
+
+![Wireframe Home](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_index.jpg)
+![Wireframe Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_gallery.jpg)
+![Wireframe Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_signup.jpg)
+
+### Initial design ideas 
+
+Initial design wireframes using Adobe Illustrator:
+
+![Wireframe Home](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_index.jpg)
+![Wireframe Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_gallery.jpg)
+![Wireframe Sign up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/wireframe_signup.jpg)
+
 ## Features 
 
 I aimed to provide a clear, easy to understand and easy to navigate website that would appeal to both parents/guardians, and also to children ages 4-12 years.
 
-- Navigation Bar
+- Navigation 
 
   - The fully responsive navigation is on all three pages, it includes links to the Home page, Gallery and Join Up page and is identical in each page to allow for easy navigation.
   - It is positioned to be easy to view, and styled to be easy to read.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The main Kids' Bookclub logo also links to the home page.
 
 ![Nav Bar](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/navigation.jpg)
 
@@ -32,7 +54,7 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 - __Why join our Bookclub Section__
 
   - The Why join our Bookclub section allows the parents to see the benefits of their child joining the bookclub, as well as the benefits of reading in general. 
-  - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to go.
+  - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to join.
 
 ![Main Text](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home-page_maintxt.jpg)
 
