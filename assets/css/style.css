@@ -144,6 +144,11 @@ h2 {
 
 /* footer */
 
+footer {
+    background-color: #f8f3f1;
+    height: 70px;
+}
+
 .social-networks {
     text-align: center;
 }
@@ -157,6 +162,8 @@ h2 {
     margin: 1%;
     padding: 1%;
     color: #6a2383;
+    vertical-align: middle;
+
 }
 
 /* image gallery */
