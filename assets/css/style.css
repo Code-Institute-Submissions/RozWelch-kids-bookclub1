@@ -129,7 +129,7 @@ h2 {
     padding: 1rem 0;
     display: inline-flex;
     flex-wrap: wrap;
-    width: 75%;
+    width: 85%;
     justify-content: space-evenly;
     gap: 5px;
 }
