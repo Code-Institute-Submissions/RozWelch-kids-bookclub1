@@ -158,12 +158,15 @@ h2 {
     display: flex;
 }
 
-#social-networks > li {
+#social-networks li a i {
+    color: #6a2383;
+}
+
+#social-networks>li {
     display: inline;
     font-size: 160%;
     margin: 20px;
     padding: 1%;
-    color: #6a2383;
 }
 
 /* image gallery */
