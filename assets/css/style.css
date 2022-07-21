@@ -242,6 +242,15 @@ h2 {
     color: #6a2383;
 }
 
+#contact-container {
+    padding: 2rem 0;
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+
 #contact-info {
     margin: 60px;
     text-align: center;
@@ -252,8 +261,15 @@ h2 {
     margin-bottom: 5px;
 }
 
+#map {
+    width: 33%;
+    height: 300px;
+}
+
 #youtube-story {
     margin: auto;
+    width: 400px;
+    heignt: 300px;
 }
 
 /* Media queries */
