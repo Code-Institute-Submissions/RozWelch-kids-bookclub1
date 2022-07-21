@@ -54,6 +54,7 @@ h2 {
 
 #nav-menu a:hover {
     background-color: rgb(252, 252, 164);
+    color: #0085b1;
 }
 
 .active {
