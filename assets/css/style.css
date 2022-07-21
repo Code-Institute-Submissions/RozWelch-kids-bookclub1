@@ -256,6 +256,11 @@ h2 {
         left: 5%;
     }
 
+    #nav-menu,
+    #kids-logo {
+        line-height: 70px;
+    }
+
     #kids-logo {
         font-size: 230%;
     }
@@ -274,10 +279,10 @@ h2 {
     }
 
     #main-subhead {
-        font-size: 170%;
+        font-size: 160%;
         border-bottom: #72c5ce 3px dotted;
     }
-    
+
     #main-subhead i {
         margin-bottom: 5px;
     }
