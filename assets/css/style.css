@@ -37,7 +37,7 @@ h2 {
 
 #nav-menu,
 #kids-logo {
-    line-height: 72px;
+    line-height: 98px;
 }
 
 #nav-menu li {
@@ -78,7 +78,7 @@ h2 {
 
 #main-heading {
     text-transform: uppercase;
-    margin: 25px 1%;
+    margin: 50px 1%;
     font-size: 220%;
     text-align: center;
 }
@@ -90,11 +90,19 @@ h2 {
 
 #main-about p {
     font-size: 120%;
+    line-height: 135%;
+    margin: 18px 0;
 }
 
 #main-subhead {
-    border-bottom: #72c5ce 3px dotted;
+    font-size: 190%;
+    border-bottom: #72c5ce 4px dotted;
     width: fit-content;
+}
+
+#main-subhead i {
+    color: #72c5ce;
+    margin-bottom: 10px;
 }
 
 #center-heading {
@@ -107,7 +115,7 @@ h2 {
     background: url('../images/center-icon-kids.gif') no-repeat center center;
     height: 178px;
     width: 356px;
-    margin: 30px 20px 0;
+    margin: 20px 50px 60px;
 }
 
 /* bookclub locations and times */
@@ -126,7 +134,7 @@ h2 {
 }
 
 .location-container {
-    padding: 1rem 0;
+    padding: 2rem 0;
     display: inline-flex;
     flex-wrap: wrap;
     width: 85%;
@@ -254,19 +262,24 @@ h2 {
 
     #main-heading {
         font-size: 170%;
-        margin: 30px 5px;
-    }
-
-    #main-subhead {
-        font-size: 150%;
+        margin: 40px 5px;
     }
 
     #kids-icon {
-        margin: 10px auto;
+        margin: 20px auto;
     }
 
     .gallery-image {
         width: 108%;
+    }
+
+    #main-subhead {
+        font-size: 170%;
+        border-bottom: #72c5ce 3px dotted;
+    }
+    
+    #main-subhead i {
+        margin-bottom: 5px;
     }
 
 }
@@ -279,12 +292,12 @@ h2 {
     }
 
     #main-image {
-        background: url('../images/kids_main_image_small.jpg') no-repeat;
+        background: url('../images/kids_main_image_small.jpg') no-repeat right;
         height: 300px;
     }
 
     #kids-icon {
-        margin-left: 1%;
+        margin-left: 4%;
     }
 
     #center-heading {
@@ -299,8 +312,8 @@ h2 {
 
 }
 
-/* For smaller screens and laptops from 1024px wide and down */
-@media screen and (max-width: 1024px) and (min-width: 769px) {
+/* For smaller screens and laptops from 1140px wide and down */
+@media screen and (max-width: 1140px) and (min-width: 769px) {
 
     #kids-icon {
         width: 80%;
