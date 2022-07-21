@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -118,7 +119,7 @@ h2 {
     background: url('../images/center-icon-kids.gif') no-repeat center center;
     height: 178px;
     width: 356px;
-    margin: 20px 50px 60px;
+    margin: 20px 60px 70px;
 }
 
 /* bookclub locations and times */
@@ -137,7 +138,7 @@ h2 {
 }
 
 .location-container {
-    padding: 2rem 0;
+    padding: 3rem 0;
     display: inline-flex;
     flex-wrap: wrap;
     width: 85%;
@@ -183,10 +184,11 @@ h2 {
 /* image gallery */
 
 .gallery-container {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     clear: both;
-    margin: 10px;
+    gap: 10px;
+    margin-left: 10px;
     justify-content: center;
 }
 
