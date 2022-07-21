@@ -78,9 +78,11 @@ h2 {
 
 #main-heading {
     text-transform: uppercase;
-    margin: 50px 1%;
+    margin-bottom: 60px;
     font-size: 220%;
     text-align: center;
+    background-color: #dceef1;
+    line-height: 100px;
 }
 
 #main-about {
@@ -253,7 +255,7 @@ h2 {
 
     .signup-form {
         margin: 30px 5% 0 0;
-        left: 5%;
+        left: 8%;
     }
 
     #nav-menu,
@@ -266,8 +268,9 @@ h2 {
     }
 
     #main-heading {
-        font-size: 170%;
-        margin: 40px 5px;
+        font-size: 150%;
+        line-height: 80px;
+        margin-bottom: 30px;
     }
 
     #kids-icon {
