@@ -245,18 +245,30 @@ h2 {
 #contact-container {
     display: flex;
     flex-wrap: wrap;
-    height: 200px;
-    background-color: #dceef1;
+    flex-direction: row;
+    height: 300px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#left-contact {
+    margin: 0 80px;
+}
+
+#left-contact h2 {
+    font-size: 110%;
+    margin-bottom: 5px;
 }
 
 #map {
-    width: 100%;
-    height: 200px;
+    margin: 10px 90px 10px 40px;
 }
 
 #youtube-story {
-    width: 400px;
-    height: 300px;
+    width: 450px;
+    height: 253px;
+    margin: 0 50px;
 }
 
 /* Media queries */
@@ -334,6 +346,7 @@ h2 {
         width: 90%;
         margin-left: 15px;
     }
+
 
 }
 
