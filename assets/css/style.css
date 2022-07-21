@@ -255,7 +255,7 @@ h2 {
 
     .signup-form {
         margin: 30px 5% 0 0;
-        left: 8%;
+        left: 5%;
     }
 
     #nav-menu,
@@ -315,7 +315,7 @@ h2 {
     #main-about {
         text-align: left;
         width: 90%;
-        margin-left: 10px;
+        margin-left: 15px;
     }
 
 }
