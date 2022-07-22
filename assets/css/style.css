@@ -266,7 +266,7 @@ h2 {
 
 #map {
     flex: 46%;
-    margin: 5px 70px 5px 0;
+    margin: 5px 40px 5px 0;
 }
 
 #map-iframe {
@@ -277,6 +277,8 @@ h2 {
 #youtube-iframe {
     height: 168px;
     width: 300px;
+    margin: 5px 40px 5px 0;
+
 }
 
 #youtube-story {
