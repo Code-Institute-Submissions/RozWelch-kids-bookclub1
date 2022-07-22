@@ -78,10 +78,15 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 - __The Sign Up Page__
 
-  - This page will allow the parent/guardians to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
+ - This page will allow the parent/guardians to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
  - The user will be asked to submit their name, their child's name and an email address. 
+ - A contact section under the sign up shows the bookclub address, a map, and a youtube video of the latest book.
+
 
 ![Sign Up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_form.jpg)
+
+
+![Sign Up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/contact_map_youtube.jpg)
 
 
 ### Features Left to Implement
@@ -93,7 +98,8 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 The website was tested on Chrome, Firefox and Safari browers.
 The website was tested on desktop, laptop, table and mobile size screens.
 The links were tested on the deployed site, and the form was tested. 
-The code was checked on Chrome Developt tools Lighthouse with 100% results:
+All images were resized and saved for web using Adobe Photoshop, which ensured they were compressed for best file size.
+The code was checked on Chrome Developt tools Lighthouse with close to 100% results:
 
   ![Lighthouse test Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_lighthousescore.jpg)
   ![Lighthouse test Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_lighthouse.jpg)
