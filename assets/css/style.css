@@ -244,34 +244,44 @@ h2 {
     color: #6a2383;
 }
 
+    /* Form Section - Contact and Map area Flexbox */
+
 #contact-container {
-    padding: 2rem 0;
-    display: inline-flex;
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    justify-content: space-evenly;
-    gap: 5px;
+    padding: 4%;
 }
 
 #contact-info {
-    margin: 60px;
+    flex: 20%;
     text-align: center;
 }
 
 #contact-info h2 {
     font-size: 110%;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
 }
 
 #map {
-    width: 33%;
+    flex: 46%;
+    margin: 5px 70px 5px 0;
+}
+
+#map-iframe {
     height: 300px;
+    width: 100%;
+}
+
+#youtube-iframe {
+    height: 168px;
+    width: 300px;
 }
 
 #youtube-story {
-    margin: auto;
-    width: 400px;
-    height: 300px;
+    flex: 33%;
+    margin-left: 20px;
 }
 
 /* Media queries */
@@ -320,6 +330,22 @@ h2 {
 
     #main-subhead i {
         margin-bottom: 5px;
+    }
+
+    /* Contact section on join page */
+
+    #contact-container {
+        flex-direction: column;
+        padding: 2%;
+    }
+
+    #map {
+        margin: 40px 0;
+    }
+    
+    #map-iframe {
+        height: 300px;
+        width: 100%;
     }
 
 }
