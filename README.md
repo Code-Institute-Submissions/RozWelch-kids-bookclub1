@@ -102,7 +102,7 @@ The code was checked on Chrome Developt tools Lighthouse with 100% results:
 
 ### Validator Testing 
 
-When first put through the W3C tester the following issues arose and were fixed:
+When first put through the W3C validator the following issues arose and were fixed:
 - Removed extra footer div on the gallery and join pages.
 - Removed extra body tag on the gallery page.
 - Changed a Section to a Div on index page (this caused an error as there was no heading on the section).
@@ -134,6 +134,9 @@ The live link can be found here - https://rozwelch.github.io/kids-bookclub1/inde
 ## Credits 
 
 Resources: WW3 school, Love Running walkthrough project.
+
+I followed this W3 Schools tutorial to make the image Gallery page:
+https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
 
 Acknowledgements: Thanks to my mentor, my fellow students on Slack, Tutoring support and to my friends for helping test the site.
 
