@@ -370,18 +370,15 @@ h2 {
         margin-bottom: 5px;
     }
 
-    @media screen and (max-width: 768px) {
-
     .column {
         -ms-flex: 100%;
         flex: 100%;
         max-width: 100%;
       }
 
-}
 
 /* For tablet size screens from 768px wide and down */
-@media screen and (max-width: 768px) and (min-width: 481px) {
+@media screen and (max-width: 768px) {
 
     .location {
         width: 95%;
@@ -413,13 +410,6 @@ h2 {
     #map {
         margin: 40px 0;
     }
-
-    .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-      }
-
 }
 
 /* For smaller screens and laptops from 1189px wide and down */
@@ -447,5 +437,11 @@ h2 {
     #map {
         margin: 40px 0;
     }
+
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+      }
 
 }
