@@ -71,20 +71,52 @@ h2 {
     margin-bottom: 10px;
 }
 
-#main-image {
-    height: 590px;
+#main-image-outer {
+    height: 600px;
     width: 100%;
-    background: url('../images/kids_main_image.jpg') no-repeat;
-    clear: both;
+    overflow: hidden;
+    position: relative;
 }
 
-#main-heading {
+#cover-text,
+#cover-text h2 {
+    color: #fff;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/kids_main_image.jpg') no-repeat center center;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#cover-text {
+    font-size: 110%;
+    font-family: Quicksand, sans-serif;
     text-transform: uppercase;
-    margin-bottom: 60px;
-    font-size: 220%;
-    text-align: center;
-    background-color: #dceef1;
-    line-height: 100px;
+    letter-spacing: 1px;
+    border-radius: 20px;
+
+    width: 275px;
+    height: 200px;
+
+    padding-top: 20px;
+    padding-left: 25px;
+
+    background-color: rgba(137, 96, 160, .8);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+hr {
+    border-top: dotted 3px;
+    border-color:  #72c5ce;
+    width: 240px;
+    margin: 10px 0 10px 0;
 }
 
 #main-about {
@@ -180,18 +212,6 @@ h2 {
     margin: 20px;
     padding: 1%;
 }
-
-/* image gallery 
-
-.gallery-container {
-    display: inline-flex;
-    flex-wrap: wrap;
-    clear: both;
-    gap: 10px;
-    margin-left: 10px;
-    justify-content: center;
-}
-*/
 
 /* Image gallery */
 
@@ -375,7 +395,7 @@ h2 {
         flex: 100%;
         max-width: 100%;
       }
-
+    }
 
 /* For tablet size screens from 768px wide and down */
 @media screen and (max-width: 768px) {
@@ -438,10 +458,5 @@ h2 {
         margin: 40px 0;
     }
 
-    .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-      }
 
 }
