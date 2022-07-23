@@ -15,21 +15,19 @@ Am I Responsive view of the website on different devices:
 
 User stories
 
-First Time Visitor Expectation
-
+First Time Visitor Expectations:
 A First Time user will want to easily understand the main purpose of the site and learn more about the clubs.
 A First Time user will want to be able to easily navigate throughout the site to find content.
 A First Time user will want to view the website and content clearly on my mobile device.
 A First Time user will want to sign their child up for a class.
 A First Time user will want to find ways to follow the bookclubs social media platforms.
+A First Time user will want to find the bookclubs main contact information and location.
 
-Returning Visitor Expectations
-
+Returning Visitor Expectations:
 A Returning user will want to sign my child up for a class.
 A Returning user will want to check location addresses and times of classes.
 
-Frequent Visitor Expectations
-
+Frequent Visitor Expectations:
 A Frequent user will want to check location addresses and times of classes.
 A Frequent user will want to see photos from the classes.
 
@@ -63,11 +61,16 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
   - The main Kids' Bookclub logo also links to the home page.
 
+  UX:  A First Time user will want to be able to easily navigate throughout the site to find content.
+
+
 ![Nav Bar](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/navigation.jpg)
 
 - __The landing page image__
 
   - The landing page includes a photograph with the main heading to allow the user to see exactly which who the website is for and locations of bookclubs. 
+
+  UX: A First Time user will want to easily understand the main purpose of the site and learn more about the clubs.
 
 ![Landing Page](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page.jpg)
 
@@ -76,11 +79,15 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - The Why join our Bookclub section allows the parents to see the benefits of their child joining the bookclub, as well as the benefits of reading in general. 
   - The parents will be encouraged to sign up their child, and children viewing the website will be encouraged to join.
 
+  UX: A First Time user will want to easily understand the main purpose of the site and learn more about the clubs.
+
 ![Main Text](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home-page_maintxt.jpg)
 
 - __Location and times section__
 
   - This section will allow users to see the location and times of bookclub groups.  
+
+  UX: A Returning user will want to check location addresses and times of classes.
 
 ![Meetup Times](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_locations.jpg)
 
@@ -89,12 +96,16 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
   - The footer section includes links to the relevant social media sites for Kids' Bookclub. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
+  UX: A First Time user will want to find ways to follow the bookclubs social media platforms.
+
 ![Footer](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/footer.jpg)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the Bookclubs are like. 
   - This section is valuable to the parents/guardians as they will see if they would be suitable for thier child, and also of benefit to the child to see other children enjoying the groups. 
+
+  UX: A Frequent user will want to see photos from the classes.
 
 ![Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_page.jpg)
 
@@ -103,6 +114,9 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
  - This page will allow the parent/guardians to sign up their child to a bookclub near them. They will be able to specify the area nearest them. 
  - The user will be asked to submit their name, their child's name and an email address. 
  - A contact section under the sign up shows the bookclub address, a map, and a youtube video of the latest book.
+
+ UX : A First Time or Returning user will want to sign their child up for a class.
+ UX : A First Time user will want to find the bookclubs main contact information and location.
 
 
 ![Sign Up](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_form.jpg)
@@ -113,12 +127,12 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 ### Features Left to Implement
 
-- A page of short videos to show how the club has benefitted a child's reading skills.
+- A page of short videos to show how the club has benefitted childrens' reading skills.
 
 ## Testing 
 
 The website was tested on Chrome, Firefox and Safari browers.
-The website was tested on desktop, laptop, table and mobile size screens.
+The website was tested on desktop, laptop, tablet and mobile size screens.
 The links were tested on the deployed site, and the form was tested. 
 All images were resized and saved for web using Adobe Photoshop, which ensured they were compressed for best file size.
 The code was checked on Chrome Developt tools Lighthouse with close to 100% results:
