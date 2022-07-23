@@ -11,6 +11,28 @@ Am I Responsive view of the website on different devices:
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_mockup.jpg)
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_page_mockup.jpg)
 
+## User Experience Design (UX)
+
+User stories
+
+First Time Visitor Expectation
+
+A First Time user will want to easily understand the main purpose of the site and learn more about the clubs.
+A First Time user will want to be able to easily navigate throughout the site to find content.
+A First Time user will want to view the website and content clearly on my mobile device.
+A First Time user will want to sign their child up for a class.
+A First Time user will want to find ways to follow the bookclubs social media platforms.
+
+Returning Visitor Expectations
+
+A Returning user will want to sign my child up for a class.
+A Returning user will want to check location addresses and times of classes.
+
+Frequent Visitor Expectations
+
+A Frequent user will want to check location addresses and times of classes.
+A Frequent user will want to see photos from the classes.
+
 ## Design 
 
 The design is fun, easy to read and has a bright, vibrant colour pallet. 
