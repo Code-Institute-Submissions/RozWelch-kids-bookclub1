@@ -131,10 +131,14 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 ## Testing 
 
-The website was tested on Chrome, Firefox and Safari browers.
+The website was tested on Chrome and Safari browers.
 The website was tested on desktop, laptop, tablet and mobile size screens.
 The links were tested on the deployed site, and the form was tested. 
 All images were resized and saved for web using Adobe Photoshop, which ensured they were compressed for best file size.
+
+Full testing steps: 
+![Site testing steps](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/site_testing.gif)
+
 The code was checked on Chrome Developt tools Lighthouse with close to 100% results:
 
   ![Lighthouse test Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_lighthousescore.jpg)
