@@ -85,7 +85,7 @@ h2 {
 }
 
 #cover-text {
-    font-size: 110%;
+    font-size: 105%;
     font-family: Quicksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -108,7 +108,7 @@ h2 {
 hr {
     border-top: dotted 3px;
     border-color: #72c5ce;
-    width: 240px;
+    width: 223px;
     margin: 10px 0 10px 0;
 }
 
