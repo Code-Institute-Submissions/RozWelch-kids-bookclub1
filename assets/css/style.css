@@ -405,9 +405,8 @@ hr {
         width: 95%;
     }
 
-    #main-image {
-        background: url('../images/kids_main_image_small.jpg') no-repeat right;
-        height: 300px;
+    #cover-text {
+        left: 20px;
     }
 
     #kids-icon {
