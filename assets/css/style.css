@@ -64,6 +64,14 @@ h2 {
 
 /* main image and text */
 
+#main-image-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 80px;
+}
+
 #cover-text,
 #cover-text h2 {
     color: #fff;
@@ -74,9 +82,37 @@ h2 {
     width: 100%;
     background: url('../images/kids_main_image.jpg') no-repeat center center;
     clear: both;
-    margin-bottom: 50px;
 }
 
+#cover-text {
+    font-size: 110%;
+    font-family: Quicksand, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 20px;
+
+    width: 275px;
+    height: 200px;
+
+    padding-top: 20px;
+    padding-left: 25px;
+
+    background-color: rgba(106, 35, 131, .8);
+
+    left: 30px;
+    top: 370px;
+
+    position: absolute;
+}
+
+hr {
+    border-top: dotted 3px;
+    border-color:  #72c5ce;
+    width: 240px;
+    margin: 10px 0 10px 0;
+}
+
+/* center section with text */
 #main-section {
     height: 33%;
     display: flex;
