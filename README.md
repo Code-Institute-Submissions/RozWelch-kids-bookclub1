@@ -14,22 +14,7 @@ Am I Responsive view of the website on different devices:
 ## User Experience Design (UX)
 
 User stories
-
-First Time Visitor Expectations:
-A First Time user will want to easily understand the main purpose of the site and learn more about the clubs.
-A First Time user will want to be able to easily navigate throughout the site to find content.
-A First Time user will want to view the website and content clearly on my mobile device.
-A First Time user will want to sign their child up for a class.
-A First Time user will want to find ways to follow the bookclubs social media platforms.
-A First Time user will want to find the bookclubs main contact information and location.
-
-Returning Visitor Expectations:
-A Returning user will want to sign my child up for a class.
-A Returning user will want to check location addresses and times of classes.
-
-Frequent Visitor Expectations:
-A Frequent user will want to check location addresses and times of classes.
-A Frequent user will want to see photos from the classes.
+![UX design](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/ux_website.jpg)
 
 ## Design 
 
@@ -194,3 +179,5 @@ Acknowledgements: Thanks to my mentor, my fellow students on Slack, Tutoring sup
 ### Media
 
 - All photos were taken from Freepix website www.freepix.com
+- The Youtube video is taken from: 'StoryTime at Awnie's House' youtube channel
+
