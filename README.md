@@ -1,9 +1,20 @@
 
 # Project 1: Kids' Bookclub
 
-A three page website to encourage parents or guardians of children age 4-12 years old to join their children up for Kids' Bookclubs in Ireland. The content is aimed to appeal to users who would be mostly be parents or guardians of children age 4-12 years old, and the children themselves. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. Each page has a footer with a link to the bookclubs' social media pages. 
+A three page website to encourage parents or guardians of children age 4-12 years old to sign up their children for Kids' Bookclubs in Ireland. The content is aimed to appeal to users - mostly parents or guardians of children age 4-12 years old, and the children themselves. A home page gives a basic idea of the bookclubs, and includes location and meetup times. A gallery page shows images of what the bookclubs are like. A Join Up page allows parents or guardians to sign their children up to a group. It also includes contact information, a map and a link to a Youtube video. Each page has a footer with a link to the bookclubs' social media pages. 
 
 The live site can be found here: https://rozwelch.github.io/kids-bookclub1/index.html
+
+## Table of Contents
+* [Responsive Views](#Responsive-views)
+* [User Experience Design (UX)](#User-Experience-Design)
+* [Design](#Design)
+* [Features](#Features)
+* [Testing](#Testing)
+* [Deployment](#Deployment)
+* [Credits](#Credits)
+
+## Responsive views
 
 Am I Responsive view of the website on different devices:
 
@@ -11,7 +22,7 @@ Am I Responsive view of the website on different devices:
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_mockup.jpg)
 ![Responsice Mockup](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/signup_page_mockup.jpg)
 
-## User Experience Design (UX)
+## User Experience Design 
 
 User stories
 ![UX design](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/ux_website.jpg)
@@ -112,12 +123,13 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 ### Features Left to Implement
 
-- A page of short videos to show how the club has benefitted childrens' reading skills.
+- An interactive Calendar so classes could be booked online
+- A newsletter sign up section
 
 ## Testing 
 
 The website was tested on Chrome and Safari browers.
-The website was tested on desktop, laptop, tablet and mobile size screens.
+The website was tested on desktop, laptop, tablet and mobile size screens (Devices tested on: iPhone 11 and 12, Samsung Galaxy S22, iPad, iMac pro 15in screen, iMac 27in screen).
 The links were tested on the deployed site, and the form was tested. 
 All images were resized and saved for web using Adobe Photoshop, which ensured they were compressed for best file size.
 
@@ -161,6 +173,24 @@ There were no unfixed bugs.
   - Once the master branch has been selected, this deployed my project to the URL below. 
 
 The live link can be found here - https://rozwelch.github.io/kids-bookclub1/index.html
+
+### Project Creation
+The project was created in Git Hub using the Code Institute template.
+
+The following commands were used throughout the project:
+
+* git add . - This command was used to add files to the staging area before commiting.
+* git commit -m "I add commit message here" - This command was used to to commit changes to the local repository.
+* git push - This command is used to push all commited changes to the GitHub repository. 
+
+
+### Run Locally
+1. Navigate to the GitHub [Repository:](https://github.com/RozWelch/kids-bookclub1)
+1. Click the Code drop down menu.
+1. Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+1. Open your developement editor of choice and open a terminal window in a directory of your choice.
+1. Use the 'git clone' command in terminal followed by the copied git URL.
+1. A clone of the project will be created locally on your machine.
 
 ## Credits 
 

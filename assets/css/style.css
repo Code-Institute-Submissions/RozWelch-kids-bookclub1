@@ -392,15 +392,17 @@ hr {
         margin-bottom: 5px;
     }
 
+
+}
+
+/* For tablet size screens from 768px wide and down */
+@media screen and (max-width: 768px) {
+
     .column {
         -ms-flex: 100%;
         flex: 100%;
         max-width: 100%;
     }
-}
-
-/* For tablet size screens from 768px wide and down */
-@media screen and (max-width: 768px) {
 
     .location {
         width: 95%;
@@ -431,6 +433,7 @@ hr {
     #map {
         margin: 40px 0;
     }
+    
 }
 
 /* For smaller screens and laptops from 1189px wide and down */
