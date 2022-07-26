@@ -123,8 +123,8 @@ I aimed to provide a clear, easy to understand and easy to navigate website that
 
 ### Features Left to Implement
 
-- An interactive Calendar so classes could be booked online
-- A newsletter sign up section
+- An interactive Calendar with timead and dates, so classes could be booked online
+- A newsletter sign up section with an auto responder 
 
 ## Testing 
 
@@ -136,7 +136,7 @@ All images were resized and saved for web using Adobe Photoshop, which ensured t
 Full testing steps: 
 ![Site testing steps](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/site_testing.gif)
 
-The code was checked on Chrome Developt tools Lighthouse with close to 100% results:
+The code was checked on Chrome Developer tools Lighthouse with results at or close to 100%:
 
   ![Lighthouse test Homepage](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/home_page_lighthousescore.jpg)
   ![Lighthouse test Gallery](https://github.com/RozWelch/kids-bookclub1/blob/main/assets/readme_images/gallery_lighthouse.jpg)
